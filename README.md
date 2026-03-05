@@ -6,7 +6,7 @@
 
 | Файл                               | Описание                                                                 |
 | ---------------------------------- | ------------------------------------------------------------------------ |
-| `sre_incident_management.md`       | Управление инцидентами: классификация, эскалация, постмортемы, runbooks  |
+| [`sre_incident_management.md`](sre_incident_management.md)       | Управление инцидентами: классификация, эскалация, постмортемы, runbooks  |
 | [`sre_debugging_tools.md`](sre_debugging_tools.md)           | Дебаггинг в продакшене: трассировка, логи, core dumps, remote debugging  |
 | `sre_troubleshooting_playbooks.md` | Готовые сценарии для типичных проблем (OOM, deadlock, network partition) |
 
@@ -14,7 +14,7 @@
 
 | Файл                            | Описание                                                            |
 | ------------------------------- | ------------------------------------------------------------------- |
-| `sre_monitoring_stack.md`       | Prometheus, Grafana, Datadog, New Relic — запросы, алерты, дашборды |
+| [`sre_monitoring_stack.md`](sre_monitoring_stack.md)       | Prometheus, Grafana, Datadog, New Relic — запросы, алерты, дашборды |
 | `sre_logging_best_practices.md` | Структурированные логи, агрегация, корреляция trace\_id             |
 | `sre_distributed_tracing.md`    | OpenTelemetry, Jaeger, Zipkin — анализ latency между сервисами      |
 | `sre_slo_sli_sla_framework.md`  | Определение и расчёт error budgets, burn rate alerts                |
