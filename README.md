@@ -7,7 +7,7 @@
 | Файл                               | Описание                                                                 |
 | ---------------------------------- | ------------------------------------------------------------------------ |
 | `sre_incident_management.md`       | Управление инцидентами: классификация, эскалация, постмортемы, runbooks  |
-| `sre_debugging_tools.md`           | Дебаггинг в продакшене: трассировка, логи, core dumps, remote debugging  |
+| `[sre_debugging_tools.md](sre_debugging_tools.md)`           | Дебаггинг в продакшене: трассировка, логи, core dumps, remote debugging  |
 | `sre_troubleshooting_playbooks.md` | Готовые сценарии для типичных проблем (OOM, deadlock, network partition) |
 
 ### Observability & Monitoring
